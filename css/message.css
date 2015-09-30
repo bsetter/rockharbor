@@ -146,6 +146,7 @@ article.message .share > div {
 	margin-right: 10px;
 	margin-bottom: 30px;
 	max-height: 20px;
+	float: left;
 }
 article.message .share img {
 	height: 15px;
